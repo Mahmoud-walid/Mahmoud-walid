@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- i'm mahmoud Walid Mahmoud
-- Student at FCIS - mansoura university - 2nd
-- i'm MernStack learner :)
-- My skills: html - css - BootStrap - JavaScript - MVC design pattern - Parcel module bundler - Code Refactoring
-- I practice on React.js 
+- I'm Mahmoud Walid Mahmoud 🚀
+- Student at FCIS - Mansoura University - 2nd 📚
+- I'm a MERN Stack learner 💻
+- My skills: HTML - CSS - Bootstrap - JavaScript - MVC design pattern - Parcel module bundler - Code Refactoring 🛠️
+- I practice on React.js ⚛️
