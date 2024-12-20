@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/mahmoudwalid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mahmoudwalid" height="30" width="40" /></a>
-<a href="https://twitter.com/mahmoud_walid03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahmoud_walid03" height="30" width="40" /></a>
+<a href="https://x.com/mahmoudWalid_JS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahmoudWalid_JS" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mahmoud-walid-95391424a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-walid-95391424a" height="30" width="40" /></a>
 <a href="https://fb.com/mahmoud.walid.2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoud.walid.2003" height="30" width="40" /></a>
 <a href="https://medium.com/@modywmbadr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@modywmbadr" height="30" width="40" /></a>
