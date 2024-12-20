@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Walid Mahmoud</h1>
-<h3 align="center">I'm a MERN Stack 💻</h3>
+<h3 align="center">I'm Front-End || React Developer || Mern-Stack 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoud-walid&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud-walid" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoud-walid" alt="mahmoud-walid" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mahmoud_walid03" target="blank"><img src="https://img.shields.io/twitter/follow/mahmoud_walid03?logo=twitter&style=for-the-badge" alt="mahmoud_walid03" /></a> </p>
+<p align="left"> <a href="https://x.com/mahmoudWalid_JS" target="blank"><img src="https://img.shields.io/twitter/follow/mahmoudWalid_JS?logo=twitter&style=for-the-badge" alt="mahmoudWalid_JS" /></a> </p>
 
-- 🌱 I’m currently learning **Reactjs - Expressjs - mongoDB**
+- 🌱 I’m currently learning **Expressjs - mongoDB**
 
 - 💬 Ask me about **Reactjs**
 
