@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Reactjs**
 
-- 📫 How to reach me **modywmbadr@gmail.com**
+- 📫 How to reach me [Telegram chat](https://t.me/NOthing_1010011010)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
