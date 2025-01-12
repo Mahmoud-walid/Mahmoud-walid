@@ -12,7 +12,7 @@
 - 💬 Ask me about **Reactjs**
 
 - 📫 How to reach me [Telegram chat](https://t.me/NOthing_1010011010)
-- 📫 Telegram Channel [React Notes Channel](https://t.me/ReactNotes_randomNotes) - inside this channel exist a most readable and useful books (Refactoring UI - Learning Patterns by Lydia Hallie)
+- 📚 Telegram Channel [React Notes Channel](https://t.me/ReactNotes_randomNotes) - inside this channel exist a most readable and useful books (Refactoring UI - Learning Patterns by Lydia Hallie)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
