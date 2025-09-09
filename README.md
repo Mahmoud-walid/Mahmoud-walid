@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://x.com/mahmoudWalid_JS" target="blank"><img src="https://img.shields.io/twitter/follow/mahmoudWalid_JS?logo=twitter&style=for-the-badge" alt="mahmoudWalid_JS" /></a> </p>
 
-- 🌱 I’m currently learning **Expressjs - mongoDB**
+- 🌱 I’m currently learning **GLSL - React-Native**
 
 - 💬 Ask me about **Reactjs**
 
