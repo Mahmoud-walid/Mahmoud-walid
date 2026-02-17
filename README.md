@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoud-walid&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud-walid" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoud-walid" alt="mahmoud-walid" /></a> </p>
+<p align="left"> <a href="https://github.com/mahmoudwalidjs2-create/github-profile-trophy"><img src="https://github-profile-trophy-ten-sand.vercel.app/?username=Mahmoud-walid&theme=onedark" alt="Mahmoud-walid" /></a> </p>
 
 <p align="left"> <a href="https://x.com/mahmoudWalid_JS" target="blank"><img src="https://img.shields.io/twitter/follow/mahmoudWalid_JS?logo=twitter&style=for-the-badge" alt="mahmoudWalid_JS" /></a> </p>
 
