@@ -6,6 +6,11 @@
 
 <p align="left"> <a href="https://github.com/mahmoudwalidjs2-create/github-profile-trophy"><img src="https://github-profile-trophy-ten-sand.vercel.app/?username=Mahmoud-walid&theme=onedark" alt="Mahmoud-walid" /></a> </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Frontend-Creative%20UI%20Developer-0ea5e9?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=for-the-badge" />
+</p>
+
 <p align="left"> <a href="https://x.com/mahmoudWalid_JS" target="blank"><img src="https://img.shields.io/twitter/follow/mahmoudWalid_JS?logo=twitter&style=for-the-badge" alt="mahmoudWalid_JS" /></a> </p>
 
 - 🌱 I’m currently learning **GLSL - React-Native**
