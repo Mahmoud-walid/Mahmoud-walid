@@ -1,3 +1,4 @@
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:9333ea&height=200&section=header&text=Mahmoud%20Walid&fontSize=40&fontColor=fff&animation=fadeIn" width="100%"/> -->
 <h1 align="center">Hi 👋, I'm Mahmoud Walid Mahmoud</h1>
 <h3 align="center">Frontend Developer focused on React, Next.js & Creative UI & Animations ✨</h3>
 
@@ -115,6 +116,10 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=framer" width="40"/>
 </a>
 
+<a href="https://threejs.org/" target="_blank" style="display:inline-block;">
+  <img src="https://skillicons.dev/icons?i=threejs" width="40"/>
+</a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/SVG" target="_blank" style="display:inline-block;">
   <img 
     src="https://upload.wikimedia.org/wikipedia/commons/4/4f/SVG_Logo.svg" 
@@ -136,7 +141,11 @@
 
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-walid&" alt="mahmoud-walid" /></p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-walid&" alt="mahmoud-walid" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahmoud-walid&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahmoud-walid&layout=compact&theme=tokyonight"/>
+</p>
 
 <hr />
 
