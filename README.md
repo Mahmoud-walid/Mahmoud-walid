@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Walid Mahmoud</h1>
-<h3 align="center">I'm Front-End || React Developer || Mern-Stack 💻</h3>
+<h3 align="center">Frontend Developer focused on React, Next.js & Creative UI & Animations ✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoud-walid&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud-walid" /> </p>
 
